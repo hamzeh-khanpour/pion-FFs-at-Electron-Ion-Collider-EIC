@@ -5,7 +5,7 @@ pion FFs at Electron-Ion Collider (EIC)
 
 # Description 
 
-PionFF-EIC is a reproducible NLO QCD global-fit framework for parton→π fragmentation functions (FFs) that combines established SIA/SIDIS datasets with realistically simulated Electron–Ion Collider (EIC) pseudo-data to quantify their impact on central values and uncertainties. The repository provides configs and scripts to ingest data, construct covariance/nuisance models for correlated systematics, run neural-network FF parametrizations with timelike DGLAP evolution, and propagate errors via Monte-Carlo replicas. It supports with/without-EIC comparisons, scale and PDF variations, and exports trained FF grids plus publication-quality figures/tables—all with full provenance logging to ensure end-to-end reproducibility.
+Pion FFs @ EIC is a reproducible NLO QCD global-fit framework for parton→π fragmentation functions (FFs) that combines established SIA/SIDIS datasets with realistically simulated Electron–Ion Collider (EIC) pseudo-data to quantify their impact on central values and uncertainties. The repository provides configs and scripts to ingest data, construct covariance/nuisance models for correlated systematics, run neural-network FF parametrizations with timelike DGLAP evolution, and propagate errors via Monte-Carlo replicas. It supports with/without-EIC comparisons, scale and PDF variations, and exports trained FF grids plus publication-quality figures/tables—all with full provenance logging to ensure end-to-end reproducibility.
 
 
 
