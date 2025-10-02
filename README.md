@@ -11,7 +11,7 @@ PionFF-EIC is a reproducible NLO QCD global-fit framework for parton→π fragme
 
 # Reference
 
-2503.16053 [hep-ph]; Phys. Rev. D 112 (2025) 054032 
+https://arxiv.org/abs/2503.16053; Phys. Rev. D 112 (2025) 054032 
 
 # Reference
 
