@@ -11,6 +11,10 @@ PionFF-EIC is a reproducible NLO QCD global-fit framework for parton→π fragme
 
 # Reference
 
+2503.16053 [hep-ph]; Phys. Rev. D 112 (2025) 054032 
+
+# Reference
+
 @article{Soleymaninia:2025EICPionFF,
   title   = {Improved Constraints on Pion Fragmentation Functions from Simulated Electron-Ion Collider Data},
   author  = {Soleymaninia, Maryam and Khanpour, Hamzeh and Azizi, Majid and Hashamipour, Hadi},
